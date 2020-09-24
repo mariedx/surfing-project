@@ -1,0 +1,8 @@
+.background-image {
+  height: 400px;
+  background-image: url("surfeuse.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
